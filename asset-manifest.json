@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jchang13.github.io/csb-e2t27/static/css/main.b521c691.chunk.css",
+    "main.js": "https://jchang13.github.io/csb-e2t27/static/js/main.4bda9a83.chunk.js",
+    "main.js.map": "https://jchang13.github.io/csb-e2t27/static/js/main.4bda9a83.chunk.js.map",
+    "runtime-main.js": "https://jchang13.github.io/csb-e2t27/static/js/runtime-main.a240819e.js",
+    "runtime-main.js.map": "https://jchang13.github.io/csb-e2t27/static/js/runtime-main.a240819e.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://jchang13.github.io/csb-e2t27/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://jchang13.github.io/csb-e2t27/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://jchang13.github.io/csb-e2t27/index.html",
+    "static/css/main.b521c691.chunk.css.map": "https://jchang13.github.io/csb-e2t27/static/css/main.b521c691.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://jchang13.github.io/csb-e2t27/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a240819e.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.b521c691.chunk.css",
+    "static/js/main.4bda9a83.chunk.js"
+  ]
+}
